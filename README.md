@@ -1,1 +1,1 @@
-# Helper function
+A collection of utility functions and command in R
