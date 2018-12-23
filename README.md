@@ -1,1 +1,1 @@
-A collection of utility functions and command in R
+A collection of utility functions and commands in R
